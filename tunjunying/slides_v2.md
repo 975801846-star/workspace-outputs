@@ -45,6 +45,7 @@ section h2 { color: #1a5c2a; font-size: 1.6em; border-left: 4px solid #e8a817; p
 section h3 { font-size: 1.1em; color: #333; font-weight: 700; margin: 8px 0; }
 
 .card-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin-top: 10px; }
+.card-grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 10px; }
 .card { background: #f4f7f4; border-radius: 8px; padding: 14px; border-top: 3px solid #1a5c2a; }
 .card.accent { border-top-color: #e8a817; }
 .card h4 { margin: 0 0 6px 0; font-size: 0.9em; color: #1a5c2a; }
@@ -165,12 +166,13 @@ table tr:nth-child(even) td { background: #f4f7f4; }
 
 ---
 
-# 三个核心对标账号
+# 四个核心对标账号
 
 | 账号 | 类型 | 粉丝量级 | 核心盈利模式 | 关键启示 |
 |---|---|---|---|---|
 | **烟消云**<br>驻村第一书记 | 个人故事+带货 | 68M+赞 | ①农产品橱窗带货<br>②个人IP商务合作 | 军旅背景=信任背书<br>日更高频=算法优势 |
 | **点亮乡村-范文栋** | 基建+直播 | 2.4M+赞 | ①直播助农打赏<br>②政府项目合作 | 「安路灯」一个动作=IP<br>极简定位=极强记忆 |
+| **小江支书** | 正能量+文化 | 77万赞 | ①少而精人设沉淀<br>②长期信任变现 | 34条作品获高粘性<br>质量 > 数量 |
 | **八甲村书记张爱军** | 特产锚点 | 6.7M+赞 | ①苹果品牌溢价<br>②产地旅游导流 | 「苹果第一镇」=产品锚<br>不需要解释就懂 |
 
 <div class="highlight">
@@ -182,9 +184,7 @@ table tr:nth-child(even) td { background: #f4f7f4; }
 
 # 对标盈利逻辑拆解
 
-<div class="card-grid">
-<div class="card">
-<h4>烟消云</h4>
+<div class="card-grid-2">
 <p><strong>模式：</strong>内容引流 → 个人IP信任 → 橱窗带货<br>
 <strong>优势：</strong>791条视频，高频输出<br>
 <strong>局限：</strong>个人精力瓶颈，不可复制<br>
@@ -196,6 +196,13 @@ table tr:nth-child(even) td { background: #f4f7f4; }
 <strong>优势：</strong>「安路灯」标签极强<br>
 <strong>局限：</strong>公益属性影响商业变现空间<br>
 <strong>对我们启示：</strong>需要一个「标志动作」</p>
+</div>
+<div class="card">
+<h4>小江支书</h4>
+<p><strong>模式：</strong>少而精 → 人格信任 → 长期变现<br>
+<strong>优势：</strong>34条作品77万赞，转化率极高<br>
+<strong>局限：</strong>变现路径不清晰<br>
+<strong>对我们启示：</strong>不用追求日更，每条都是精品</p>
 </div>
 <div class="card">
 <h4>张爱军</h4>
@@ -294,7 +301,7 @@ table tr:nth-child(even) td { background: #f4f7f4; }
 </div>
 <div class="card">
 <h4>📊 数据策略</h4>
-<p>• 周复盘：完播率+互动率+涨粉<br>• 找到自己的「爆款因子」<br>• 对标号：每周刷3个同类账号<br>• 第4周做一次方向调整</p>
+<p>• 周复盘：完播率+互动率+涨粉<br>• 找到自己的「爆款因子」<br>• 对标号：每周刷4个同类账号<br>• 第4周做一次方向调整</p>
 </div>
 </div>
 

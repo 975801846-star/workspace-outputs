@@ -13,23 +13,25 @@
 | `03_Nunes_etal_2021_annotated.md` | Nunes (2021) — 年龄 × 场地尺寸交互效应，原文 100% 标注 |
 | `LR_Matrix_Original_Quotes.md` | 7 源 × 3 Theme 矩阵（原句版），含覆盖状态 |
 
-## 状态
+## 文件清单
 
-| 论文 | 原文 | 标注 | 入矩阵 |
-|------|:---:|:---:|:---:|
-| 1. Peña-Ardila (2026) | ❌ | ❌ | ❌ |
-| 2. Oppici et al. (2018) | ✅ | ✅ | ✅ |
-| 3. Travassos et al. (2018) | ❌ | ❌ | ❌ |
-| 4. Machado et al. (2024) | ❌ | ❌ | ❌ |
-| 5. Yiannaki et al. (2020) | ❌ | ❌ | ❌ |
-| 6. Yiannaki et al. (2026) | ✅ | ✅ | ✅ |
-| 7. Nunes et al. (2021) | ✅ | ✅ | ✅ |
+| 文件 | 内容 |
+|------|------|
+| `01_Oppici_2018_EJSS.pdf` | 🔶 高亮版 PDF |
+| `02_Yiannaki_2026.pdf` | 🔶 高亮版 PDF |
+| `03_Nunes_2021.docx` | 📄 原文 (docx, 非 PDF 无法高亮) |
+| `04_Pena-Ardila_2026.pdf` | 🔶 高亮版 PDF |
+| `05_Travassos_2018.pdf` | 🔶 高亮版 PDF |
+| `06_Machado_2024.pdf` | 🔶 高亮版 PDF |
+| `07_Yiannaki_2020.pdf` | 🔶 高亮版 PDF |
+| `LR_Matrix_Original_Quotes.md` | 7×3 Theme 矩阵（原句版） |
+| `Highlight_Guide.md` | 逐句定位指南 |
 
 ## 使用方式
 
-1. 写段落时直接从 `LR_Matrix_Original_Quotes.md` 取原句
-2. 需要全文上下文时打开单篇 `0X_*_annotated.md`
-3. 写作时用 paraphrase 改写原句（不要直接抄）
+1. 打开高亮版 PDF → 黄色标注即为矩阵中对应的原句
+2. `LR_Matrix_Original_Quotes.md` → 写段落时直接取原句 paraphrase
+3. `Highlight_Guide.md` → 需要精确定位时参考
 
 ---
 

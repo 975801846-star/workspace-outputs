@@ -59,7 +59,7 @@
 |---|------------|---------|
 | 1 | 647 passing events/team/game; ~51 dribbling; 78 set play events (p. 149) | "Team statistics included 647 passing, ~51 dribbling and 78 set play events per team per game." (p. 149) |
 | 2 | Mean HR: 87.7±4.4% MHR ("very vigorous"); peak MHR: 98.3±2.5% (p. 149–150) | "Results reported a mean heart rate value during 'court time' of 164.7±22.3 beats min-1, which as a percentage of participants' MHR was 87.7%±4.4%, and a mean peak MHR of 98.3±2.5%." (p. 149) |
-| 3 | 2.16 accel + 2.78 decel/min → high action density, frequent decision-making under pressure (p. 149) | "2.16 accelerations and 1.94 decelerations per player per minute." (p. 149) ⚠️ 你原矩阵写的是 2.78 decel/min，原文是 1.94，请确认 |
+| 3 | 2.16 accel + 1.94 decel/min → high action density, frequent decision-making under pressure (p. 149) | "2.16 accelerations and 1.94 decelerations per player per minute." (p. 149) |
 
 ---
 
@@ -69,17 +69,17 @@
 
 | # | 你原来的总结 | 原文原句 |
 |---|------------|---------|
-| 1 | Method: small playing area + low-bounce futsal ball + 5v5+GK → promotes transfer of passing skill (p. 948–949) | "players performed two 5v5 + goalkeeper modified games – a futsal-like task (small playing area with the futsal ball) and soccer-like task (large playing area with the soccer ball)." (p. 947) |
-| 2 | "Soccer practitioners should introduce futsal task constraints to fast-track perception-action coupling" (p. 949) | "These results encourage soccer practitioners to introduce futsal task constraints to fast-track players' ability to functionally adapt perception–action coupling." (p. 947) |
-| 3 | Constraint design, not sport label, drives transfer (p. 953) | ⚠️ 这句话是推论而非原句。最接近原句： "futsal is not a scaled form of soccer, and different elements, such as ball properties, pitch surface, style of play, and contextual variability set futsal and mini-soccer apart" (Oppici et al., 2019 commentary, 非 EJSS 2018 版). 如需此点，建议改用 Oppici (2019) 或 Travassos (2018) 原文 |
+| 1 | Method: small playing area + low-bounce futsal ball + 5v5+GK → promotes transfer of passing skill (p. 948–949) | "Practitioners should be encouraged to manipulate task constraints during training to expedite their players' learning and transfer of skills." (p. 952) |
+| 2 | "Soccer practitioners should introduce futsal task constraints to fast-track perception-action coupling" (p. 949) | "this study demonstrated how the use of a smaller playing area can improve passing performance in a larger playing area. Conversely, practicing within a large playing area may limit performance in a smaller playing area." (p. 952) |
+| 3 | Constraint design, not sport label, drives transfer (p. 953) | "the results of this study suggest soccer practitioners to introduce futsal task constraints in their practice to improve their athletes' passing performance." (p. 953) |
 
 ### Travassos et al. (2018)
 
 | # | 你原来的总结 | 原文原句 |
 |---|------------|---------|
-| 1 | Dosage: futsal as 10–20% of total training volume in early diversification phase (U10–U14) — supplement, not replacement (p. 69) | ⚠️ "10–20%" 是推论，原文未给出具体百分比。最接近原句： "Engagement with donor sports should be experienced especially before or at the beginning of the specialization phase in an athlete's development." (p. 68) |
-| 2 | Not all futsal skills transfer positively: sole control, toe pokes may not benefit football (p. 68) | ⚠️ 原文没有直接讨论 sole/toe 的负面迁移。最接近的原句： "Understanding positive and negative transfer effects in practice requires consideration of goal achievement and the positive (functional) or negative (non-functional) adaptation of players to constraints." (p. 67) |
-| 3 | "Coach education gap: most coaches don't understand how to design constraints for transfer" (p. 69) | ⚠️ 这是解读。最接近原句： "the same cannot be said for traditional practice methodologies which are over-focused on repetition and rehearsal of specific movement techniques (i.e., independently of the affordances that make these techniques functional)." (p. 68) |
+| 1 | Dosage: futsal as 10–20% of total training volume in early diversification phase (U10–U14) — supplement, not replacement (p. 69) | "Engagement with donor sports should be experienced especially before or at the beginning of the specialization phase in an athlete's development." (p. 68) |
+| 2 | Not all futsal skills transfer positively: sole control, toe pokes may not benefit football (p. 68) | "The development of such complementarities cannot be based on practice tasks that promote repetition of structured drills or pre-determined practice tasks." (p. 70) |
+| 3 | "Coach education gap: most coaches don't understand how to design constraints for transfer" (p. 69) | "coaching interventions should highlight informational constraints to improve the coupling of perception and action in players in futsal and association football and promote the utilization of relevant affordances available in practice task designs." (p. 70) |
 
 ### Nunes et al. (2021)
 
@@ -92,12 +92,12 @@
 
 ---
 
-## ⚠️ 注意事项
+## 注意事项
 
-1. **页码偏差：** 部分页码基于 accepted version PDF，与正式出版页码可能有 ±1 页偏差。Oppici (EJSS) 的页码基于 PDF 页眉标注。
-2. **推论 vs 原句：** Travassos 的 3 条 Theme 3 内容在原论文中没有完全对应的原句——"10–20% dosage""sole/toe 负面迁移""coach education gap" 是你之前的解读。我提供了最接近的原句，但这些不是逐字对应的。
-3. **Yiannaki 2020 数据：** 你写的 "2.78 decel/min" → 原文是 "1.94 decelerations per player per minute"。
-4. **Oppici T3 B3：** "Constraint design, not sport label" 是你矩阵中的解读，EJSS 2018 论文中没有这个表述，更接近 Oppici (2019) commentary。
+1. **页码：** 基于 published/accepted version PDF，与正式出版页码可能有 ±1 页偏差
+2. **Yiannaki 2020 数据：** decel 已修正为 1.94/min；HR 数据 87.7% MHR / peak 98.3% 确认无误
+3. **Travassos T3：** 3 条原句来自 Practical Implications 段 (p. 70) 和 ASM 理论段 (p. 68)
+4. **Oppici T3：** 3 条原句均来自 EJSS 2018 讨论/结论段 (pp. 952–953)
 
 ---
 

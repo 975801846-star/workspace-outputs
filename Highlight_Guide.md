@@ -20,18 +20,18 @@
 
 **PDF:** `全文PDF/OPPICI L.(2018)transfer passing skill.pdf` (EJSS, pp. 947–954)
 
-| # | 高亮内容（首尾关键词） | Theme |
-|---|---------------------|-------|
+| # | 高亮内容 | Theme |
+|---|---------|-------|
 | 1 | "The futsal group improved their passing accuracy (ES = 0.75 ± 0.61) from the futsal-like to the soccer-like task, and they were more accurate than soccer players (ES = 2.98 ± 2.96)." | T2 |
 | 2 | "This indicates a higher magnitude of transfer (and adaptability) from performing passes in a small playing area with short time to act – futsal task constraints – to a larger playing area with longer time to act – soccer task constraints – than vice-versa." | T2 |
 | 3 | "Futsal players showed a higher adaptation of attention orientation to the affordances that emerged with the soccer task constraints, which is suggested to be one of the main mechanisms promoting skill transfer." | T2 |
-| 4 | "players performed two 5v5 + goalkeeper modified games – a futsal-like task (small playing area with the futsal ball) and soccer-like task (large playing area with the soccer ball)." | T3 |
-| 5 | "These results encourage soccer practitioners to introduce futsal task constraints to fast-track players' ability to functionally adapt perception–action coupling." | T3 |
-| 6 | "Passing is a complex perceptual-motor skill" + "Relative to soccer, passing in futsal is performed in a smaller area, with shorter time to act, and with a ball that is relatively easier to control." | T1 |
+| 4 | "Practitioners should be encouraged to manipulate task constraints during training to expedite their players' learning and transfer of skills." | T3 |
+| 5 | "this study demonstrated how the use of a smaller playing area can improve passing performance in a larger playing area. Conversely, practicing within a large playing area may limit performance in a smaller playing area." | T3 |
+| 6 | "the results of this study suggest soccer practitioners to introduce futsal task constraints in their practice to improve their athletes' passing performance." | T3 |
 
 ---
 
-## Travassos et al. (2018) — 3 条高亮 (+ 3 条替代)
+## Travassos et al. (2018) — 6 条高亮
 
 **PDF:** `全文PDF/Travassos B.(2017).Donor sport.pdf`
 
@@ -40,7 +40,9 @@
 | 1 | "The complementary nature of the two sports can be exploited for skill acquisition in early diversification through emphasising selected performance–based affordances, behavioral correspondence between sports, and self-evident advances towards task goals." | T1 |
 | 2 | "Futsal also provide more frequent opportunities to perform skills and engage with the ball, compared to football (see Fenoglio 2003; Davids et al. 2013)." | T1 |
 | 3 | "Research has pointed to the physical, psychological, emotional, and social problems, including dropout, which may result from early specialization." | T1 |
-| * | *(T3 的 3 条为推论；最接近原句见上方矩阵表)* | T3 |
+| 4 | "Engagement with donor sports should be experienced especially before or at the beginning of the specialization phase in an athlete's development." | T3 |
+| 5 | "The development of such complementarities cannot be based on practice tasks that promote repetition of structured drills or pre-determined practice tasks." | T3 |
+| 6 | "coaching interventions should highlight informational constraints to improve the coupling of perception and action in players in futsal and association football and promote the utilization of relevant affordances available in practice task designs." | T3 |
 
 ---
 

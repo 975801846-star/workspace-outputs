@@ -1,0 +1,70 @@
+# LR Note-Making Matrix — 原句版 (Original Quotes Only)
+
+> 拉夫堡 Pre-sessional · 安同学
+> 题目：Futsal-to-Football Skill Transfer
+> 
+> ⚠️ **本矩阵仅放原文原句，不做总结不改句型。** 用于 Writing Assessment 的 evidence pool。
+> 
+> 标注格式：`"原文原句" — 段落定位`
+
+---
+
+## Theme 1: WHAT — 哪些技能可被迁移
+
+| Source | Original Quotes (原文原句) |
+|--------|---------------------------|
+| **Peña-Ardila (2026)** | ⚠️ 缺原文PDF，待补 |
+| **Oppici et al. (2018)** | `"Futsal task constraints (e.g., equipment and playing area) have been argued to promote the acquisition of perceptual-motor skills that positively transfer to soccer."` — Abstract<br><br>`"Passing is a complex perceptual-motor skill which involves the reception of the ball and a pass towards a teammate. Spatial and temporal information about the ball and attacker-defender interactions shapes the emergence of opportunities for passing (i.e., passing affordances) during games."` — §Passing skill<br><br>`"Relative to soccer, passing in futsal is performed in a smaller area, with shorter time to act, and with a ball that is relatively easier to control. The landscape of passing affordances in futsal is highly unpredictable and changes continuously due to the high-intensity movements of players."` — §Passing skill<br><br>`"In theory, these futsal specific constraints should encourage players to quickly channel their attention to the key information that specifies passing affordances at every moment, and to quickly adapt to sudden changes during a game relative to soccer."` — §Passing skill<br><br>`"The similarity of the information that guides action promotes skill transfer between tasks … and consequently the relative similarity of information that guides the passing action in futsal and soccer should promote skill transfer."` — §Passing skill |
+| **Travassos et al. (2018)** | ⚠️ 缺原文PDF，待补 |
+| **Machado et al. (2024)** | ⚠️ 缺原文PDF，待补 |
+| **Yiannaki et al. (2020)** | ⚠️ 缺原文PDF，待补 |
+| **Yiannaki et al. (2026)** | `"Inductive thematic analysis supported futsal as a potential tool to develop skills with results indicating that futsal could successfully and positively transfer to football."` — Abstract<br><br>`"I think everyone should be exposed to it because the game offers so many positives…futsal can only help develop a player intellectually, physically…if you have got a very astute intelligent player that is thinking quickly, think on an 11-a-side pitch how much time that person has, the skills that they have developed, the perception that they have acquired from futsal and they can then use that in 11-a-side."` — Participant B<br><br>`"Fast decision-making, fast quality decision-making is one thing it develops and also passing, I think. It's so good to create better passers and better passers in tight areas, better passers in you know breaking blocks, forward passers."` — Participant A<br><br>`"Participants indicated that in futsal, ball reception is distinct, characterised by greater use of the sole, whilst generally encouraging ball manipulation, as players seek to exploit interpersonal distances. Additionally, players typically scan as the ball travels due to reliable ball movement."` — §3.3 |
+| **Nunes et al. (2021)** | *(本论文聚焦 HOW 而非 WHAT — 主要贡献在 Theme 3)* |
+
+---
+
+## Theme 2: EVIDENCE — 迁移实证
+
+| Source | Original Quotes (原文原句) |
+|--------|---------------------------|
+| **Peña-Ardila (2026)** | ⚠️ 缺原文PDF，待补 |
+| **Oppici et al. (2018)** | `"Futsal players performed more accurate passes than soccer players, which indicates positive skill transfer from futsal to soccer."` — §Futsal practice promotes transfer<br><br>`"the futsal players modified their perceptual behaviour from the futsal (in study 1) to the soccer modified game and oriented their attention towards the ball and other players at critical phases, which, combined with the superior passing performance, indicates that futsal players functionally adapted their perceptual behaviour and passing skill to the affordances that emerged in the modified soccer game."` — §Futsal practice promotes transfer<br><br>`"Futsal players oriented their attention towards other players' behaviour primarily during ball reception and control, while soccer players primarily oriented their attention to other players when they were not performing passes but their team was in possession of the ball."` — §Futsal practice influences perceptual behaviour<br><br>`"The experimental group improved their passing performance – passing and decision-making accuracy – to a greater extent than the control group. Changes in gaze behaviour and attunement to key environmental information that specified passing affordances (e.g., free teammate and free space) underpinned the experimental group's superior performance."` — §Futsal ball usage<br><br>`"Collectively, these three studies demonstrate how practicing futsal and learning the passing skill with the futsal ball promoted the development of higher passing and decision accuracy which positively transferred to soccer."` — §Futsal ball usage<br><br>`"Education of attention towards key information and adaptability of the passing skill underpinned the transfer process."` — §Futsal ball usage<br><br>`"It must be acknowledged that these studies did not consider how participants' skill level and potential skill level differences between the futsal and soccer groups may have influenced the results."` — Limitation |
+| **Travassos et al. (2018)** | ⚠️ 缺原文PDF，待补 |
+| **Machado et al. (2024)** | ⚠️ 缺原文PDF，待补 |
+| **Yiannaki et al. (2020)** | ⚠️ 缺原文PDF，待补 |
+| **Yiannaki et al. (2026)** | `"Our results present perceptions that futsal can be beneficial to football TD, with skills transfer perceived as likely owing to high similarity."` — Discussion<br><br>`"Our findings resemble those of research using surveys to examine high-level coaches' perceptions on the potential benefits of futsal, with 89.6% indicating futsal's usefulness to football TD and 90.9% considering its use."` — Discussion<br><br>`"Results of this study suggested that elite coaches regarded futsal practice as a beneficial tool for football TD which could successfully transfer."` — Conclusion |
+| **Nunes et al. (2021)** | *(本论文聚焦 HOW — 年龄×场地交互效应，非直接迁移证据)* |
+
+---
+
+## Theme 3: HOW — 训练方法 + 注意事项
+
+| Source | Original Quotes (原文原句) |
+|--------|---------------------------|
+| **Peña-Ardila (2026)** | ⚠️ 缺原文PDF，待补 |
+| **Oppici et al. (2018)** | `"soccer organisations are encouraged to introduce futsal in the early stages of their pathway programs to promote the development of the passing skill."` — §Implications<br><br>`"futsal is not a scaled form of soccer, and different elements, such as ball properties, pitch surface, style of play, and contextual variability set futsal and mini-soccer apart."` — §Implications<br><br>`"this difference in constraints needs to be faithfully represented to optimise the development of soccer passing skill."` — §Implications<br><br>`"Practicing 300 kicks with the futsal ball was sufficient to elicit greater improvement than using the soccer ball."` — §Implications<br><br>`"futsal can accelerate the learning of soccer skill in novices (study 3) and promote the enhanced development of soccer skill in skilled players (study 2)."` — §Implications<br><br>`"futsal could prove valid in increasing variability of the learning environment and promote skill adaptability, which underpins expert performance."` — §Implications<br><br>`"it must be acknowledged that futsal may also be detrimental for some aspects of soccer. For example, there is no offside rule in futsal, and players may initially struggle when transferring their movement behaviour to soccer."` — §Recommendations<br><br>`"a prolonged participation in futsal may interfere with transfer."` — §Recommendations<br><br>`"future research should examine how to appropriately balance the volume of soccer and futsal activities, and when players should specialise in soccer."` — §Recommendations<br><br>`"we recommend the principles of the representative learning design (RLD) (i.e., coupling perception and action, and sampling perceptual information from the environment towards which the behaviour is generalised [i.e., game]) be used to shape future research."` — §Recommendations |
+| **Travassos et al. (2018)** | ⚠️ 缺原文PDF，待补 |
+| **Machado et al. (2024)** | ⚠️ 缺原文PDF，待补 |
+| **Yiannaki et al. (2020)** | ⚠️ 缺原文PDF，待补 |
+| **Yiannaki et al. (2026)** | `"Specific constraints of futsal, such as the ball, surface, court size and boundaries, were perceived to dictate player behaviours, and the skills they develop, many of which could be beneficial to football if delivered appropriately."` — Abstract<br><br>`"I think we have to be really adamant about the identity of the constraints. And we need to be quite influential over the coaching."` — Participant F<br><br>`"For very young players we can't go from back to front because the heavier ball it is a little bit more difficult to do that, so what you do get is lots of little lifts and you know lots of more disguise and fakes with the ball because you're having to problem solve as well how can I get out of this situation?"` — Participant D<br><br>`"We can give players that kind of confidence on the ball whether they are in lots of space or whether they are under really, you know, tight pressure and I think that is one of the unique selling points."` — Participant A<br><br>`"We think we are playing futsal, what we're actually doing is playing five a-side on a futsal pitch, we might have the goals, we might have the footwear, we might have the ball, or a couple of those elements but not all of them and we call it futsal because that is what we believe it is, but in reality it is still five a-side football. How do we change that? We change that through coaching, we change it through knowledge and education."` — Participant F<br><br>`"I think it is understanding that whatever we change, the ball, whether we change the goals, whether we change the surface erm you know to lines of the rules, … do coaches really understand what they are getting erm and then what a trade-off is … I am not convinced yet that coaches generally really, really get that."` — Participant C<br><br>`"I would like a twin-track programme up to the age of 14 if possible erm but that would have to be included not just training futsal it would also be competitive games in futsal for what the competition gives you as well."` — Participant D<br><br>`"For me the biggest frustration within erm within erm academies at the minute … we get to the age of 12 and then they don't play it so erm for me it needs looking at and really asking the question of OK if we think futsal is valuable for developing you know youth development football players, is why do we stop at the age of 12."` — Participant E<br><br>`"Futsal is not accepted in many, many countries that is one. There's no connection between football and futsal at the moment."` — Participant J<br><br>`"The South American kids that play futsal are technically better in terms of that kind of 1v1 beating a player, even their defensive attributes."` — Participant H |
+| **Nunes et al. (2021)** | `"The results highlighted that the same SSCG practice context, applied to different age groups, promoted different response outcomes from participants. Greater changes were demonstrated in younger age groups and on larger pitches."` — Abstract<br><br>`"Overall data suggests that, depending on their intended goals, coaches can manipulate pitch dimension to obtain a variety of desired outcomes in different age group players."` — Abstract<br><br>`"larger sized pitches greatly increased the affordances (opportunities) for younger players to perform a pass, given the reduced level of pressing to intercept the ball as the defenders had to cover more space and distance than on a S playing area."` — Discussion<br><br>`"players at early stages of development should train on L dimension fields which have greater area per individual, since these performance spaces may allow more time for players to search for the most effective passing solution."` — Discussion<br><br>`"On S playing areas the distance between opponents is smaller and more experienced performers increased the frequency of passing actions, relative to other actions, to adapt to these performance constraints."` — Discussion<br><br>`"young children should not be treated as 'mini-adults' and have different needs and capacities, compared to older age group athletes, in general."` — Discussion<br><br>`"From a practical point of view, the coaches should consider the possibility to reduce the available space in order to push the development of more experienced players in terms of technical execution and decision-making for passing."` — Discussion<br><br>`"The use of smaller playing areas seems to favour the increase of passing actions in older players while, in turn, increases in playing area appear to alter the available time for younger players to practice skills without the major constraint of pressing."` — Conclusion<br><br>`"High intensity running can be facilitated by use of larger playing areas, especially for younger players."` — Conclusion<br><br>`"as the players' age increased, team adaptations to the available playing space becomes more evident, decreasing the need of individual adaptations to the available space."` — Discussion<br><br>`"We speculate that most of these players [U15] were in the middle of puberty, and were experiencing rapid perceptual-motor and cognitive development, which allowed them to explore how to perform in different game situations."` — Conclusion |
+
+---
+
+## 覆盖状态
+
+| Source | Theme 1 (WHAT) | Theme 2 (EVIDENCE) | Theme 3 (HOW) |
+|--------|:---:|:---:|:---:|
+| Peña-Ardila (2026) | ⚠️ | ⚠️ | ⚠️ |
+| Oppici et al. (2018) | ✅ | ✅ | ✅ |
+| Travassos et al. (2018) | ⚠️ | ⚠️ | ⚠️ |
+| Machado et al. (2024) | ⚠️ | ⚠️ | ⚠️ |
+| Yiannaki et al. (2020) | ⚠️ | ⚠️ | ⚠️ |
+| Yiannaki et al. (2026) | ✅ | ✅ | ✅ |
+| Nunes et al. (2021) | — | — | ✅ |
+
+> ✅ = 原文已收录 | ⚠️ = 缺原文PDF | — = 该论文在此主题非主要贡献
+
+---
+
+*Generated by 龙虾 🦞 · 2026-07-31 · Branch: lr-quotes-v1*

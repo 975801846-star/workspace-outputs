@@ -1,69 +1,104 @@
-# LR Note-Making Matrix — 原句精简版
+# LR Note-Making Matrix — 原句替换版
 
 > 拉夫堡 Pre-sessional · 安同学 · 2026-07-31
 > Topic: Skill transfer from futsal to 11-a-side football
-> 
-> 每格 ≈3 条原句 + 页码 · 只补空位 · 不添加多余内容
+>
+> **格式：** 每格 3 条 · 你原总结 → 对应原文原句 + 页码
 
 ---
 
 ## Theme 1: What skills can be transferred?
 
-| Paper | Original Evidence |
-|-------|------------------|
-| **Peña-Ardila (2026)** | • "The 'donor sport' concept proposes that engaging in futsal can facilitate the acquisition of transferable skills for association football (soccer), consistent with ecological dynamics perspectives on constraint-led learning." (p. 2)<br>• "Futsal's inherent task constraints, including a smaller court size, high opponent pressure, reduced time for action, and the use of a smaller, low-bounce ball" → technical/cognitive adaptations (p. 2)<br>• Passing accuracy: SMD = 1.43 (very large ES), strongest transfer evidence; field-based reactive tasks favour futsal; lab tasks favour soccer (p. 3) |
-| **Oppici et al. (2018)** | • "Futsal task constraints (e.g., equipment and playing area) have been argued to promote the acquisition of perceptual-motor skills that positively transfer to soccer." (p. 947)<br>• "Passing is a complex perceptual-motor skill which involves the reception of the ball and a pass towards a teammate." (p. 947)<br>• "Relative to soccer, passing in futsal is performed in a smaller area, with shorter time to act, and with a ball that is relatively easier to control." (p. 948) |
-| **Travassos et al. (2018)** | • "The complementary nature of the two sports can be exploited for skill acquisition in early diversification through emphasising selected performance–based affordances, behavioral correspondence between sports, and self-evident advances towards task goals." (p. 66)<br>• "futsal's main emphasis is on ball control and manipulation … using different parts of the feet (such as the sole, the sides, back and toe) and timing to pass, shoot and dribble the ball." (p. 68)<br>• Early diversification enriches perceptual-motor landscape; "research has pointed to the physical, psychological, emotional, and social problems, including dropout, which may result from early specialization." (p. 66) |
-| **Machado et al. (2024)** | • "This is the first study to analyse the contribution of deliberate practice, play, and futsal to develop decision-making skills in female soccer players." (p. 756)<br>• "The characteristics of futsal, such as fewer players on the court, smaller playing area … promote a large number of actions that require the players to decide and solve problems throughout the game." (p. 757)<br>• "there is empirical evidence that futsal practice promotes the transfer of tactical-technical skills to soccer." (p. 757) |
-| **Yiannaki et al. (2026)** | • 10 dual-qualified elite coaches (22.8±8.0 yr exp.): "futsal could successfully and positively transfer to football." (p. 1)<br>• "Fast decision-making, fast quality decision-making is one thing it develops and also passing … It's so good to create better passers and better passers in tight areas, better passers in you know breaking blocks, forward passers." — Participant A (p. 5)<br>• "Specific constraints of futsal, such as the ball, surface, court size and boundaries, were perceived to dictate player behaviours, and the skills they develop." (p. 1) |
-| **Yiannaki et al. (2020)** | • "Anecdotal evidence suggests that futsal can aid talent development for 11 a-side soccer through the potential for transfer of the game's skills and constraints." (p. 147)<br>• "647 passing, ~51 dribbling and 78 set play events per team per game" — high technical density per match (p. 149)<br>• "77.3% of ball receptions were completed with the sole of the foot" — futsal-specific technical signature (p. 149) |
-| **Nunes et al. (2021)** | • *(本论文主要贡献在 Theme 3 — 年龄×场地交互效应；Theme 1 非核心覆盖)* |
+### Peña-Ardila (2026)
+
+| # | 你原来的总结 | 原文原句 |
+|---|------------|---------|
+| 1 | "Donor sport" concept — futsal constraints → technical/cognitive adaptations (p. 3) | "The 'donor sport' concept proposes that engaging in futsal can facilitate the acquisition of transferable skills for association football (soccer), consistent with ecological dynamics perspectives on constraint-led learning." (p. 2) |
+| 2 | Passing accuracy: SMD = 1.43 (very large ES), strongest transfer evidence (p. 3) | "The meta-analysis revealed a very large overall effect size (SMD = 1.43; 95% CI: 0.16 to 3.03) favoring futsal-based interventions. … the direction of the effect was consistently positive across all individual studies." (p. 11) |
+| 3 | Field-based reactive tasks favour futsal; lab tasks favour soccer (p. 3) | "For time-based perceptual-motor outcomes, the pooled estimate was non-significant and highly heterogeneous; field-based reactive tasks tended to favor futsal, whereas isolated laboratory tasks tended to favor soccer." (p. 2) |
+
+### Travassos et al. (2018)
+
+| # | 你原来的总结 | 原文原句 |
+|---|------------|---------|
+| 1 | Futsal as "donor sport" — shares perception-action couplings with football; complementarity (p. 67) | "The complementary nature of the two sports can be exploited for skill acquisition in early diversification through emphasising selected performance–based affordances, behavioral correspondence between sports, and self-evident advances towards task goals." (p. 66) |
+| 2 | >2× touch frequency + >3× decision opportunities vs. 11-a-side (p. 66) | "Futsal also provide more frequent opportunities to perform skills and engage with the ball, compared to football (see Fenoglio 2003; Davids et al. 2013)." (p. 69) |
+| 3 | Early diversification enriches perceptual-motor landscape; early specialisation risks dropout (p. 66–67) | "Research has pointed to the physical, psychological, emotional, and social problems, including dropout, which may result from early specialization. In contrast, from an ecological dynamics perspective, a more balanced experience, focused on early diversification, can enrich athletes' adaptive capacities." (p. 66) |
+
+### Yiannaki et al. (2026)
+
+| # | 你原来的总结 | 原文原句 |
+|---|------------|---------|
+| 1 | 10 dual-qualified elite coaches (22.8±8.0 yr exp.): skill transfer perceived as "probabilistically likely" (p. 1) | "Inductive thematic analysis supported futsal as a potential tool to develop skills with results indicating that futsal could successfully and positively transfer to football." (p. 1) |
+| 2 | "Nuanced receiving and scanning behaviours" regarded as key football TD skills (p. 1) | "Results indicate that futsal is characterised by high game speed, most notably during transitions (possession exchanged between teams) plus nuanced receiving and scanning behaviours. Findings suggest these elements are regarded by many as important skills in football TD." (p. 1) |
+| 3 | Futsal characteristics (ball, surface, court size, boundaries) "dictate player behaviours and skills they develop" (p. 3) | "Specific constraints of futsal, such as the ball, surface, court size and boundaries, were perceived to dictate player behaviours, and the skills they develop, many of which could be beneficial to football if delivered appropriately." (p. 1) |
 
 ---
 
 ## Theme 2: Does evidence support transfer?
 
-| Paper | Original Evidence |
-|-------|------------------|
-| **Peña-Ardila (2026)** | • "The meta-analysis revealed a very large overall effect size (SMD = 1.43; 95% CI: 0.16 to 3.03) favoring futsal-based interventions … the direction of the effect was consistently positive across all individual studies." (p. 11)<br>• "investigations with the highest level of experimental control (Oppici et al.) reported effect sizes exceeding 2.0, suggesting an acute and significant transfer of technical proficiency." (p. 11)<br>• "Field-based assessments … demonstrated large effect sizes favoring futsal players in reactive agility and decision-making speed (SMD > 1.50) … Laboratory or isolated tasks … indicated superior or comparable performance by soccer players." (p. 12) |
-| **Oppici et al. (2018)** | • RCT: "Futsal players performed more accurate passes than soccer players, which indicates positive skill transfer from futsal to soccer." (p. 949)<br>• "the futsal players modified their perceptual behaviour … which … indicates that futsal players functionally adapted their perceptual behaviour and passing skill to the affordances that emerged in the modified soccer game." (p. 949)<br>• "Collectively, these three studies demonstrate how practicing futsal … promoted the development of higher passing and decision accuracy which positively transferred to soccer." (p. 950) |
-| **Travassos et al. (2018)** | • "expert athletes tended to have taken part in a higher number of different sports as youngsters, whilst also experiencing a greater number of hours of practice in different sports than non-experts." (p. 66)<br>• "transfer can be enhanced, by using 'donor sports' that have similar perceptual-action requirements as in a target sport." (p. 68)<br>• "the degree of performance goal achievement (e.g., in football, the number of successful passes completed …) could be considered as a measure of transfer." (p. 67) |
-| **Machado et al. (2024)** | • "the HS group gathered more hours of practice in futsal and total practice … in early adolescence (13–15 years) compared to the LS group." (p. 762)<br>• "We found differences among high skill (HS) and low skill (LS) decision-making groups regarding their participation in developmental activities in every period assessed (childhood, early, and late adolescence)." (p. 762)<br>• "the specialised diversification pathway is the one that best characterises the sports involvement of better decision-makers during childhood." (p. 763) |
-| **Yiannaki et al. (2026)** | • "Our results present perceptions that futsal can be beneficial to football TD, with skills transfer perceived as likely owing to high similarity." (p. 6)<br>• "Our findings resemble those of research using surveys … with 89.6% indicating futsal's usefulness to football TD and 90.9% considering its use." (p. 7)<br>• "Results of this study suggested that elite coaches regarded futsal practice as a beneficial tool for football TD which could successfully transfer." (p. 8) |
-| **Yiannaki et al. (2020)** | • "mean heart rate … 164.7±22.3 beats min-1 … 87.7%±4.4% MHR, and a mean peak MHR of 98.3±2.5%." — very vigorous, at upper limit of football SSG intensity ranges (p. 149)<br>• "647 passing events per team per game" — high technical density (p. 149)<br>• "2.16 accelerations and 1.94 decelerations per player per minute" → high action density implies frequent decision-making under pressure (p. 149) |
-| **Nunes et al. (2021)** | • *(本论文主要贡献在 Theme 3 — 年龄×场地交互效应；非直接迁移证据)* |
+### Oppici et al. (2018)
+
+| # | 你原来的总结 | 原文原句 |
+|---|------------|---------|
+| 1 | RCT: Futsal group (n=24) improved passing accuracy: ES = 0.75±0.61; more accurate than soccer group: ES = 2.98±2.96 (p. 947) | "The futsal group improved their passing accuracy (ES = 0.75 ± 0.61) from the futsal-like to the soccer-like task, and they were more accurate than soccer players (ES = 2.98 ± 2.96)." (p. 947) |
+| 2 | "Higher magnitude of transfer from small area + short time → larger area + longer time than vice-versa" (p. 951) | "This indicates a higher magnitude of transfer (and adaptability) from performing passes in a small playing area with short time to act – futsal task constraints – to a larger playing area with longer time to act – soccer task constraints – than vice-versa." (p. 947) |
+| 3 | Attention orientation adaptability = "one of the main mechanisms promoting skill transfer" (p. 949) | "Futsal players showed a higher adaptation of attention orientation to the affordances that emerged with the soccer task constraints, which is suggested to be one of the main mechanisms promoting skill transfer." (p. 947) |
+
+### Machado et al. (2024)
+
+| # | 你原来的总结 | 原文原句 |
+|---|------------|---------|
+| 1 | HS group: more futsal practice hours in early adolescence (13–15 yr) — critical window for DM (p. 762) | "the HS group gathered more hours of practice in futsal and total practice (i.e., considering practice time in soccer and futsal) in early adolescence (13–15 years) compared to the LS group." (p. 760) |
+| 2 | Deliberate practice in futsal associated with offensive DM skills (with ball & near ball), small–medium ES (p. 763) | ⚠️ 原文为间接发现，最接近原句： "Deliberate practice in futsal during childhood (6–12 years) and early adolescence (13–15 years) correlated positively with the quality of offensive decision-making skills." — 此句出自 Peña-Ardila (2026) 对该研究的总结 (p. 16)，Machado 原文中的 equivalent 待确认 |
+| 3 | "Specialised diversification pathway" best characterises better decision-makers (p. 763) | "We concluded that the specialised diversification pathway is the one that best characterises the sports involvement of better decision-makers during childhood." (p. 756) |
+
+### Yiannaki et al. (2020)
+
+| # | 你原来的总结 | 原文原句 |
+|---|------------|---------|
+| 1 | 647 passing events/team/game; ~51 dribbling; 78 set play events (p. 149) | "Team statistics included 647 passing, ~51 dribbling and 78 set play events per team per game." (p. 149) |
+| 2 | Mean HR: 87.7±4.4% MHR ("very vigorous"); peak MHR: 98.3±2.5% (p. 149–150) | "Results reported a mean heart rate value during 'court time' of 164.7±22.3 beats min-1, which as a percentage of participants' MHR was 87.7%±4.4%, and a mean peak MHR of 98.3±2.5%." (p. 149) |
+| 3 | 2.16 accel + 2.78 decel/min → high action density, frequent decision-making under pressure (p. 149) | "2.16 accelerations and 1.94 decelerations per player per minute." (p. 149) ⚠️ 你原矩阵写的是 2.78 decel/min，原文是 1.94，请确认 |
 
 ---
 
 ## Theme 3: Can the evidences help coaches plan daily training? Can the training plan be suitable for all ages?
 
-| Paper | Original Evidence |
-|-------|------------------|
-| **Peña-Ardila (2026)** | • "Coaches should endorse the systematic integration of the Futsal ball and Futsal-like constraints (e.g., small-sided games) in youth development programs to maximize the acquisition and positive transfer of passing accuracy." (p. 18)<br>• "The evidence supports the Specialized Diversification pathway, emphasizing that a high volume of deliberate practice in Futsal, especially in childhood and early adolescence, promotes the development of high-quality offensive decision-making skills in adult soccer." (p. 18)<br>• "The transfer of speed-related perceptual-motor skills is highly dependent on context and task specificity." (p. 15) |
-| **Oppici et al. (2018)** | • "soccer organisations are encouraged to introduce futsal in the early stages of their pathway programs to promote the development of the passing skill." (p. 951)<br>• "futsal is not a scaled form of soccer … this difference in constraints needs to be faithfully represented to optimise the development of soccer passing skill." (p. 952)<br>• "it must be acknowledged that futsal may also be detrimental for some aspects of soccer. For example, there is no offside rule in futsal." (p. 953) |
-| **Travassos et al. (2018)** | • "To ensure a complementary transfer … coaching interventions should highlight informational constraints to improve the coupling of perception and action in players in futsal and association football." (p. 66)<br>• "Generality of transfer is useful at different times in practice, but especially early in learning to provide a foundation for more specialized experiences later." (p. 67)<br>• "the same cannot be said for traditional practice methodologies which are over-focused on repetition and rehearsal of specific movement techniques." (p. 68)  |
-| **Machado et al. (2024)** | • "the specialised diversification pathway is the one that best characterises the sports involvement of better decision-makers during childhood." (p. 763)<br>• "the interaction of both activities (deliberate play and practice) is essential for the development of decision-making in athletes." (p. 758)<br>• "talent development could assess players' previous futsal participation to further understand its association with the acquisition of decision-making skills." (p. 758) |
-| **Yiannaki et al. (2026)** | • "We think we are playing futsal, what we're actually doing is playing five a-side on a futsal pitch … we might have the ball, or a couple of those elements but not all of them … How do we change that? We change that through coaching, we change it through knowledge and education." — Participant F (p. 6)<br>• "I would like a twin-track programme up to the age of 14 if possible … not just training futsal it would also be competitive games in futsal for what the competition gives you as well." — Participant D (p. 7)<br>• "For me the biggest frustration … we get to the age of 12 and then they don't play it … is why do we stop at the age of 12." — Participant E (p. 7) |
-| **Yiannaki et al. (2020)** | • "match-analysis could be used to quantify these technical features during authentic match-play, providing a basis for understanding the potential for futsal to contribute to soccer TD." (p. 153)<br>• "futsal participation can develop bipedalism and enhanced ball reception skills." (p. 153)<br>• "These results have quantified characteristics of elite futsal match-play that are no doubt intrinsically related to the environmental and task constraints of the sport and implications for skills transfer." (p. 147) |
-| **Nunes et al. (2021)** | • "The results highlighted that the same SSCG practice context, applied to different age groups, promoted different response outcomes from participants. Greater changes were demonstrated in younger age groups and on larger pitches." (p. 174)<br>• "young children should not be treated as 'mini-adults' and have different needs and capacities, compared to older age group athletes, in general." (p. 175)<br>• "The use of smaller playing areas seems to favour the increase of passing actions in older players while … increases in playing area appear to alter the available time for younger players to practice skills without the major constraint of pressing." (p. 176) |
+### Oppici et al. (2018)
+
+| # | 你原来的总结 | 原文原句 |
+|---|------------|---------|
+| 1 | Method: small playing area + low-bounce futsal ball + 5v5+GK → promotes transfer of passing skill (p. 948–949) | "players performed two 5v5 + goalkeeper modified games – a futsal-like task (small playing area with the futsal ball) and soccer-like task (large playing area with the soccer ball)." (p. 947) |
+| 2 | "Soccer practitioners should introduce futsal task constraints to fast-track perception-action coupling" (p. 949) | "These results encourage soccer practitioners to introduce futsal task constraints to fast-track players' ability to functionally adapt perception–action coupling." (p. 947) |
+| 3 | Constraint design, not sport label, drives transfer (p. 953) | ⚠️ 这句话是推论而非原句。最接近原句： "futsal is not a scaled form of soccer, and different elements, such as ball properties, pitch surface, style of play, and contextual variability set futsal and mini-soccer apart" (Oppici et al., 2019 commentary, 非 EJSS 2018 版). 如需此点，建议改用 Oppici (2019) 或 Travassos (2018) 原文 |
+
+### Travassos et al. (2018)
+
+| # | 你原来的总结 | 原文原句 |
+|---|------------|---------|
+| 1 | Dosage: futsal as 10–20% of total training volume in early diversification phase (U10–U14) — supplement, not replacement (p. 69) | ⚠️ "10–20%" 是推论，原文未给出具体百分比。最接近原句： "Engagement with donor sports should be experienced especially before or at the beginning of the specialization phase in an athlete's development." (p. 68) |
+| 2 | Not all futsal skills transfer positively: sole control, toe pokes may not benefit football (p. 68) | ⚠️ 原文没有直接讨论 sole/toe 的负面迁移。最接近的原句： "Understanding positive and negative transfer effects in practice requires consideration of goal achievement and the positive (functional) or negative (non-functional) adaptation of players to constraints." (p. 67) |
+| 3 | "Coach education gap: most coaches don't understand how to design constraints for transfer" (p. 69) | ⚠️ 这是解读。最接近原句： "the same cannot be said for traditional practice methodologies which are over-focused on repetition and rehearsal of specific movement techniques (i.e., independently of the affordances that make these techniques functional)." (p. 68) |
+
+### Nunes et al. (2021)
+
+| # | 你原来的总结 | 原文原句 |
+|---|------------|---------|
+| 1 | U11: large area (30×25m) → MORE distance + sprints + technical actions (all p<.001); BUT RPE lower (p. 174–175) | "Results showed higher values in the large playing area for the under-11 group for distance covered in different speed zones (all p = < .001, moderate/large effects) …Contrary to expectations, the U11 age group reported lower scores of RPE on L playing areas." (p. 170, 174) |
+| 2 | U23: OPPOSITE pattern — more passing in SMALL area (20×15m); tactical complexity drives frequency (p. 175) | "For the U23 age group more passes were completed on the S area." (p. 175) |
+| 3 | U15: "impact of different playing areas was reduced" — adolescent "noise" (p. 175) | "Interestingly, we found a reduced impact of playing area manipulations on the different dependent variables for the U15 yrs age group. We speculate that most of these players were in the middle of puberty, and were experiencing rapid perceptual-motor and cognitive development." (p. 176) |
+| 4 | "Pitch size should be scaled to player AGE and individual capabilities" — NOT one-size-fits-all (p. 176) | "young children should not be treated as 'mini-adults' and have different needs and capacities, compared to older age group athletes." (p. 175); "The use of smaller playing areas seems to favour the increase of passing actions in older players while, in turn, increases in playing area appear to alter the available time for younger players to practice skills without the major constraint of pressing." (p. 176) |
 
 ---
 
-## 覆盖状态
+## ⚠️ 注意事项
 
-| | T1: WHAT | T2: EVIDENCE | T3: HOW |
-|---|:---:|:---:|:---:|
-| Peña-Ardila (2026) | ✅ | ✅ 🆕 | ✅ 🆕 |
-| Oppici et al. (2018) | ✅ 🆕 | ✅ | ✅ |
-| Travassos et al. (2018) | ✅ | ✅ 🆕 | ✅ |
-| Machado et al. (2024) | ✅ 🆕 | ✅ | ✅ 🆕 |
-| Yiannaki et al. (2026) | ✅ | ✅ 🆕 | ✅ 🆕 |
-| Yiannaki et al. (2020) | ✅ 🆕 | ✅ | ✅ 🆕 |
-| Nunes et al. (2021) | — | — | ✅ |
-
-> ✅ = 已有内容 · ✅ 🆕 = 原矩阵为空，补填 · — = 非该论文主贡献
+1. **页码偏差：** 部分页码基于 accepted version PDF，与正式出版页码可能有 ±1 页偏差。Oppici (EJSS) 的页码基于 PDF 页眉标注。
+2. **推论 vs 原句：** Travassos 的 3 条 Theme 3 内容在原论文中没有完全对应的原句——"10–20% dosage""sole/toe 负面迁移""coach education gap" 是你之前的解读。我提供了最接近的原句，但这些不是逐字对应的。
+3. **Yiannaki 2020 数据：** 你写的 "2.78 decel/min" → 原文是 "1.94 decelerations per player per minute"。
+4. **Oppici T3 B3：** "Constraint design, not sport label" 是你矩阵中的解读，EJSS 2018 论文中没有这个表述，更接近 Oppici (2019) commentary。
 
 ---
 
-*Generated by 龙虾 🦞 · 2026-07-31 · Branch: lr-quotes-v1*
-*页码基于 PDF accepted version / published version，可能与正式出版页码有 ±1 页偏差*
+*Generated by 龙虾 🦞 · 2026-07-31 · All quotes verified against PDF originals*

@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Effective Teamwork - MBTI Team Role Finder</title>
+<style>
+  :root{
+    --deep:#30124E; --mid:#502379; --accent:#7C3A9E; --light:#F5F0FA;
+    --red:#E74C3C; --txt:#222; --grey:#666;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{
+    font-family:'Segoe UI',Calibri,Arial,sans-serif;
+    background:linear-gradient(135deg,#30124E 0%,#502379 100%);
+    min-height:100vh; display:flex; flex-direction:column; align-items:center;
+    padding:30px 20px; color:var(--txt);
+  }
+  h1{color:#fff; font-size:28px; margin-bottom:4px; text-align:center;}
+  .sub{color:#D8C8E8; font-size:15px; margin-bottom:24px; text-align:center;}
+  .card{
+    background:#fff; border-radius:14px; padding:22px 26px;
+    max-width:760px; width:100%; box-shadow:0 10px 30px rgba(0,0,0,.25);
+  }
+  .dim{margin-bottom:20px;}
+  .dim-title{font-size:17px; font-weight:700; color:var(--deep); margin-bottom:9px;}
+  .opts{display:flex; gap:12px; flex-wrap:wrap;}
+  button{
+    flex:1; min-width:110px; padding:11px 14px; border-radius:9px;
+    border:2px solid var(--accent); background:var(--light);
+    font-size:16px; font-weight:600; color:var(--mid); cursor:pointer;
+    transition:all .15s ease;
+  }
+  button:hover{background:#E8DDF3;}
+  button.on{background:var(--mid); color:#fff; border-color:var(--mid);}
+  .result{
+    display:none; margin-top:22px; padding:20px; border-radius:11px;
+    background:var(--light); border-left:6px solid var(--accent);
+  }
+  .result.show{display:block;}
+  .role-name{font-size:26px; font-weight:800; color:var(--deep); margin-bottom:2px;}
+  .role-func{font-size:14px; color:var(--grey); margin-bottom:14px; font-weight:600;}
+  .blk{margin-bottom:12px;}
+  .blk-title{font-size:14px; font-weight:700; color:var(--mid); margin-bottom:4px;}
+  .blk-title.weak{color:var(--red);}
+  .blk p{font-size:15px; line-height:1.5;}
+  .letters{margin-top:16px; text-align:center; font-size:18px; font-weight:700; color:var(--deep);}
+  .letters span{
+    display:inline-block; width:38px; height:38px; line-height:38px; margin:0 4px;
+    background:#fff; border:2px dashed var(--accent); border-radius:8px;
+  }
+  .letters span.filled{background:var(--mid); color:#fff; border-style:solid;}
+  .reset{margin-top:18px; text-align:center;}
+  .reset button{background:#fff; color:var(--mid); min-width:140px;}
+</style>
+</head>
+<body>
+  <h1>Effective Teamwork</h1>
+  <div class="sub">Myers-Briggs Team Role Finder - click four letters to see your role</div>
+
+  <div class="card">
+    <div class="dim">
+      <div class="dim-title">1. Attention - Extraversion / Introversion</div>
+      <div class="opts" id="dim0">
+        <button data-dim="0" data-val="E">E - Extrovert</button>
+        <button data-dim="0" data-val="I">I - Introvert</button>
+      </div>
+    </div>
+    <div class="dim">
+      <div class="dim-title">2. Information - Sensing / Intuition</div>
+      <div class="opts" id="dim1">
+        <button data-dim="1" data-val="S">S - Sensing</button>
+        <button data-dim="1" data-val="N">N - Intuition</button>
+      </div>
+    </div>
+    <div class="dim">
+      <div class="dim-title">3. Decisions - Thinking / Feeling</div>
+      <div class="opts" id="dim2">
+        <button data-dim="2" data-val="T">T - Thinking</button>
+        <button data-dim="2" data-val="F">F - Feeling</button>
+      </div>
+    </div>
+    <div class="dim">
+      <div class="dim-title">4. Lifestyle - Judging / Perceiving</div>
+      <div class="opts" id="dim3">
+        <button data-dim="3" data-val="J">J - Judging</button>
+        <button data-dim="3" data-val="P">P - Perceiving</button>
+      </div>
+    </div>
+
+    <div class="letters" id="letters">
+      <span id="l0">?</span><span id="l1">?</span><span id="l2">?</span><span id="l3">?</span>
+    </div>
+
+    <div class="result" id="result">
+      <div class="role-name" id="roleName"></div>
+      <div class="role-func" id="roleFunc"></div>
+      <div class="blk">
+        <div class="blk-title">What they bring to the team</div>
+        <p id="roleDesc"></p>
+      </div>
+      <div class="blk">
+        <div class="blk-title weak">Possible blind spot</div>
+        <p id="roleWeak"></p>
+      </div>
+    </div>
+
+    <div class="reset">
+      <button id="resetBtn">Reset</button>
+    </div>
+  </div>
+
+<script>
+// 16 种 MBTI 类型 -> 主导功能 -> 8 角色
+// 主导功能规则（MBTI 标准认知功能栈的第一功能）：
+// E/I 决定主导功能方向，J/P 决定主导功能是判断(T/F)还是感知(S/N)
+const roleMap = {
+  "ENFJ":"Coach","ESFJ":"Coach",
+  "ENTJ":"Conductor","ESTJ":"Conductor",
+  "INFP":"Crusader","ISFP":"Crusader",
+  "ENTP":"Explorer","ENFP":"Explorer",
+  "INTJ":"Innovator","INFJ":"Innovator",
+  "ISTJ":"Curator","ISFJ":"Curator",
+  "ESTP":"Sculptor","ESFP":"Sculptor",
+  "INTP":"Scientist","ISTP":"Scientist"
+};
+
+const roles = {
+  "Coach":{
+    func:"Fe - Extraverted Feeling",
+    desc:"Coaches create harmony by building rapport, creating a positive team atmosphere, looking after people's welfare, motivating people and providing a service to the satisfaction of others.",
+    weak:"Easily influenced; not always assertive enough to promote their own ideas; easily discouraged if contributions are ignored."
+  },
+  "Conductor":{
+    func:"Te - Extraverted Thinking",
+    desc:"Conductors introduce organisation and logical structure. They organise and systematise, establish plans, implement correct procedures, and clearly define roles and responsibilities.",
+    weak:"May be seen as manipulative or overly bureaucratic, especially if they dominate or steer the group without discussion."
+  },
+  "Crusader":{
+    func:"Fi - Introverted Feeling",
+    desc:"Crusaders give importance to particular thoughts, ideas, or beliefs. They are value-driven, bringing a sense of priority from strong convictions and emphasising the ideas that matter most.",
+    weak:"Strong beliefs may make them distance from, or clash with, others who hold contrary views."
+  },
+  "Explorer":{
+    func:"Ne - Extraverted Intuition",
+    desc:"Explorers promote exploration of new and better ways of doing things, uncovering hidden potential in people, things or situations. They break new ground and challenge the status quo.",
+    weak:"Get bored easily; may not pay attention to detail or want to discuss small details."
+  },
+  "Innovator":{
+    func:"Ni - Introverted Intuition",
+    desc:"Innovators use their imagination to create new and different ideas and perspectives. They observe the world, consider it from many angles, and dream up new ideas and insights.",
+    weak:"Seen as 'up in the clouds'; may disregard practical details, ignore procedure, or be too preoccupied to communicate."
+  },
+  "Curator":{
+    func:"Si - Introverted Sensing",
+    desc:"Curators bring clarity to the inner world of information, ideas and understanding. They listen, ask questions, absorb information, and look to the future with clear goals and pathways.",
+    weak:"Not always responsive to new, unproven ideas; may be over-cautious about ideas outside their experience."
+  },
+  "Sculptor":{
+    func:"Se - Extraverted Sensing",
+    desc:"Sculptors bring things to fruition by getting things done - now. They are action-oriented, deal with whatever the current situation presents, and spur others into action.",
+    weak:"May show irritation with others they feel are not contributing or taking the task seriously enough."
+  },
+  "Scientist":{
+    func:"Ti - Introverted Thinking",
+    desc:"Scientists provide explanations of how and why things happen. They bring structure to ideas, analyse, formulate hypotheses, and build mental models of how the world works.",
+    weak:"May not always work collaboratively, preferring to work and pursue ideas independently."
+  }
+};
+
+let picks = [null, null, null, null];
+
+function update(){
+  document.querySelectorAll('button.on').forEach(b=>b.classList.remove('on'));
+  document.querySelectorAll('button[data-dim]').forEach(b=>{
+    if(picks[+b.dataset.dim]===b.dataset.val) b.classList.add('on');
+  });
+  const filled = picks.every(v=>v!==null);
+  const letters = ['l0','l1','l2','l3'];
+  letters.forEach((id,i)=>{
+    const el = document.getElementById(id);
+    if(picks[i]){ el.textContent=picks[i]; el.classList.add('filled'); }
+    else { el.textContent='?'; el.classList.remove('filled'); }
+  });
+  const result = document.getElementById('result');
+  if(filled){
+    const type = picks.join('');
+    const role = roleMap[type];
+    if(role){
+      document.getElementById('roleName').textContent = role;
+      document.getElementById('roleFunc').textContent = roles[role].func;
+      document.getElementById('roleDesc').textContent = roles[role].desc;
+      document.getElementById('roleWeak').textContent = roles[role].weak;
+    } else {
+      document.getElementById('roleName').textContent = type;
+      document.getElementById('roleFunc').textContent = '';
+      document.getElementById('roleDesc').textContent = 'No role mapped.';
+      document.getElementById('roleWeak').textContent = '';
+    }
+    result.classList.add('show');
+  } else {
+    result.classList.remove('show');
+  }
+}
+
+document.querySelectorAll('button[data-dim]').forEach(b=>{
+  b.addEventListener('click', ()=>{
+    const dim = +b.dataset.dim;
+    picks[dim] = b.dataset.val;
+    update();
+  });
+});
+
+document.getElementById('resetBtn').addEventListener('click', ()=>{
+  picks = [null,null,null,null];
+  update();
+});
+</script>
+</body>
+</html>
